@@ -1,0 +1,8 @@
+{
+  "name"    : "Browser",
+  "version" : "0.0.1",
+  "main"    : "main.js",
+  "dependencies": {
+    "typescript": "^2.0.3"
+  }
+}
